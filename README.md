@@ -18,11 +18,14 @@ This is an individual project.
 2- Tools:
 
     (ATmega32, RTC module, External EEPROM, LCD, 4x4 Keypad, I2C debugger, Atmel 
-    studio IDE).
+    studio IDE, Proteus).
 
 3- Files description:
 
+    3.1- (c_code): file contains the program code in C language.
+    3.2- (proteus_design): file contains the proteus design of the project.
 
+4- Video: 
 
-4- Video: ()
+    (https://youtu.be/pF20UxkN6fE)
 
